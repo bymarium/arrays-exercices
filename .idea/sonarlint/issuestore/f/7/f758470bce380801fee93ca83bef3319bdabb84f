@@ -1,0 +1,9 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÎËŠä8™æ²ÑÜ1
+F	java:S106"+Replace this use of System.out by a logger.(ŸÚ¨=8¯æ²ÑÜ1
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(áÂ®Ç8ºæ²ÑÜ1
+G	java:S106+"+Replace this use of System.out by a logger.(¸¨ú8Ææ²ÑÜ1
+G	java:S106."+Replace this use of System.out by a logger.(œ•¬8Çæ²ÑÜ1
+L	java:S1060"+Replace this use of System.out by a logger.(„–‘§úÿÿÿÿ8Èæ²ÑÜ1

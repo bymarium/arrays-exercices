@@ -1,0 +1,17 @@
+
+i
+java:S1192""LDefine a constant instead of duplicating this literal "The number " 4 times.(®øûÀ8ùÔÏÎÜ1
+€
+java:S1192"^Define a constant instead of duplicating this literal "The sums are equal. 
+Result: " 3 times.(áÅÉ˜şÿÿÿÿ8ÌÌÎÜ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ô¶˜8¥ĞÃÎÜ1
+G	java:S106"+Replace this use of System.out by a logger.(¿èƒğ8¥ĞÃÎÜ1
+L	java:S106"+Replace this use of System.out by a logger.(áÅÉ˜şÿÿÿÿ8ªĞÃÎÜ1
+L	java:S106"+Replace this use of System.out by a logger.(õ²Ğ‘ÿÿÿÿÿ8ªĞÃÎÜ1
+L	java:S106"+Replace this use of System.out by a logger.(°–àÊşÿÿÿÿ8¬ĞÃÎÜ1
+L	java:S106"+Replace this use of System.out by a logger.(¯œ¶¸øÿÿÿÿ8¬ĞÃÎÜ1
+G	java:S106""+Replace this use of System.out by a logger.(®øûÀ8¬ĞÃÎÜ1
+L	java:S106$"+Replace this use of System.out by a logger.(‹†±µùÿÿÿÿ8¬ĞÃÎÜ1
+G	java:S106*"+Replace this use of System.out by a logger.(®øûÀ8¬ĞÃÎÜ1
+L	java:S106,"+Replace this use of System.out by a logger.(‹†±µùÿÿÿÿ8—ÕÏÎÜ1
